@@ -21,4 +21,6 @@ Este proyecto implementa un sistema de recomendación básico utilizando un perc
 1. Clona este repositorio.
 2. Instala las dependencias necesarias:
    ```bash
-   pip install numpy matplotlib tkinter
+  - pip install numpy
+  - pip install matplotlib 
+  - pip install tkinter
