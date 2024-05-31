@@ -24,3 +24,5 @@ Este proyecto implementa un sistema de recomendación básico utilizando un perc
   - pip install numpy
   - pip install matplotlib 
   - pip install tkinter
+
+# tomar en cuenta las versiones para el buen funcionamiento
