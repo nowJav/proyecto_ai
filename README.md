@@ -18,7 +18,8 @@ Este proyecto implementa un sistema de recomendación básico utilizando un perc
 - `main.py`: Punto de entrada de la aplicación.
 
 ## Instalación
-1. Clona este repositorio.
+0. Python 3.12.3 (version utilizada para este proyecto)
+1. Clonar este repositorio.
 2. Instala las dependencias necesarias:
    ```bash
   - pip install numpy
