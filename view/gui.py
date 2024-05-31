@@ -1,6 +1,5 @@
 import sys
 import os
-
 # Añadir la ruta del proyecto al sistema de rutas de Python
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
